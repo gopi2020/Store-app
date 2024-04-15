@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "607579215687",
+    "project_id": "ladybugg-d6b34",
+    "storage_bucket": "ladybugg-d6b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607579215687:android:c074c1fa22d9d200821e62",
+        "android_client_info": {
+          "package_name": "com.ladybugg.deliveryperson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwi2oJlAsxBA9y1e-5aPf3uAcIMH_dFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607579215687:android:6577de991b87ae26821e62",
+        "android_client_info": {
+          "package_name": "com.ladybugg.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607579215687-fe5oo12i5pnpkvsbg1ib3f5snp47ihai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ladybugg.userapp",
+            "certificate_hash": "664e22155593f77e562d53cf7c93ddcf16f67b0b"
+          }
+        },
+        {
+          "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwi2oJlAsxBA9y1e-5aPf3uAcIMH_dFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607579215687:android:bdd54036e2974dc7821e62",
+        "android_client_info": {
+          "package_name": "com.ladybugg.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwi2oJlAsxBA9y1e-5aPf3uAcIMH_dFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607579215687-18mv6ku9rga6npkqp4bbnjqt19h4vquv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
